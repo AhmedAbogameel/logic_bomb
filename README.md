@@ -1,10 +1,15 @@
 # Logic Bomb
 
 ## Control app crashing using Firebase or REST API ( Dart, Kotlin and Swift ).
-### Do not abuse this code.
-I am not responsible for any misuse of this code.
+
 #### Hom many times did you work hard and didn't get paid ? 
-This code was created to protect myself from clients. A client may come to you wants to complete a project, when you upload the app on stores, he disappears and not pays for you.
+
+This code was created to protect myself from clients. 
+A client may come to you wants to complete a project, when you upload the app on stores, he disappears and not pays for you.
+
+### Do not abuse this code.
+
+I am not responsible for any misuse of this code.
 
 ### Code is written in :
 - #### Dart
