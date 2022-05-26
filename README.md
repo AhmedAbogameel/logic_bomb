@@ -4,7 +4,7 @@
 ### Do not abuse this code.
 I am not responsible for any misuse of this code.
 #### Hom many times did you work hard and didn't get paid ? 
-This code was created to protect myself from clients. A client may come to you wants to complete a project, when yuo upload the app on stores, he disappears and not pays for you.
+This code was created to protect myself from clients. A client may come to you wants to complete a project, when you upload the app on stores, he disappears and not pays for you.
 
 ### Code is written in :
 - #### Dart
