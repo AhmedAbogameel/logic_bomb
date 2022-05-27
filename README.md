@@ -20,6 +20,10 @@ I made it in native to make the code more invisible if he got the source code.
 
 ## Implementation Time 
 
+you need  to implement only Dart OR Both Kotlin & Swift.
+
+I recommend to implement Native code to make it more invisible.
+
 ## Dart
 in your main file 
 import 
